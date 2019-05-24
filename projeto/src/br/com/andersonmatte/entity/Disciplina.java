@@ -2,18 +2,14 @@ package br.com.andersonmatte.entity;
 
 import java.io.Serializable;
 
-/******************************************************
-
-//Instituto Federal de São Paulo - Campus Sertãozinho
-
-//Disciplina......: M3LPBD
-
-//Programação de Computadores e Dispositivos Móveis
-
-//Aluno...........: Anderson Matte Tamborim
-
-******************************************************/
-
+/**
+ * Instituto Federal de São Paulo - Campus Sertãozinho
+ * Disciplina......: M3LPBD
+ * Programação de Computadores e Dispositivos Móveis
+ * Aluno...........: Anderson Matte Tamborim
+ *
+ * Classe que representa a entidade Disciplina do Banco de Dados.
+ */
 public class Disciplina implements Serializable {
 
     private String nome;
