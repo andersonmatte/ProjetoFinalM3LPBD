@@ -19,7 +19,7 @@ public class StartProject {
      */
     public static void main(String[] args) {
         DisciplinaController disciplinaController = new DisciplinaController();
-        disciplinaController.start();
+        disciplinaController.inicializaPrograma();
     }
 
 }
